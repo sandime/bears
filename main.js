@@ -7,3 +7,4 @@ app.controller('DemoController', function($scope) {
     $scope.add = function(amount) { $scope.counter += amount; };
     $scope.subtract = function(amount) { $scope.counter -= amount; };
 });
+
